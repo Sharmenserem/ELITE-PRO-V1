@@ -3,14 +3,14 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 // Contact details
-global.ownernomer = process.env.OWNER_NOMER || "2348109263390";
+global.ownernomer = process.env.OWNER_NOMER || "254704322434";
 global.ytname = process.env.YT_NAME || "YT: @EliteProTech";
 global.socialm = process.env.SOCIAL_M || "GitHub: EliteProTech";
 global.location = process.env.LOCATION || "Nigeria, Port Harcourt";
 
 // Creator details
-global.ownernumber = process.env.OWNER_NUMBER || '2348109263390';
-global.ownername = process.env.OWNER_NAME || 'ElitePro';
+global.ownernumber = process.env.OWNER_NUMBER || '254704322434';
+global.ownername = process.env.OWNER_NAME || 'shammelody';
 global.botname = process.env.BOT_NAME || 'ELITE-PRO-V1';
 
 // Default settings 
@@ -28,7 +28,7 @@ global.autoreact = process.env.AUTO_REACT === 'true';
 global.autolikestatus = process.env.AUTO_LIKE_STATUS === 'true';
 
 // Thumbnail profile picture
-global.elitepropp = process.env.ELITE_PRO_PP || 'https://i.ibb.co/jk0ynvbn/7a8c4b5b617fa11a1e9a61190f427546.jpg';
+global.elitepropp = process.env.ELITE_PRO_PP || 'https://files.catbox.moe/ywetv2.jpeg';
 // Default emoji
 global.themeemoji = process.env.THEME_EMOJI || '👨‍💻';
 
@@ -38,8 +38,8 @@ global.packname = process.env.PACKNAME || 'Sticker By';
 global.author = process.env.AUTHOR || 'ELITEPRO\n\nContact: +2348109263390';
 // Default settings 2
 global.typemenu = process.env.TYPE_MENU || 'v2';
-global.wm = process.env.WM || "Youtube @EliteProTech";
-global.link = process.env.LINK || 'https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g';
+global.wm = process.env.WM || "Youtube @shammelody";
+global.link = process.env.LINK || 'https://whatsapp.com/channel/0029VbAuMkDD8SE6rDe2811u';
 
 // Text bug
 global.xbugtex = {
